@@ -11,7 +11,8 @@ Please follow the instructions below and fill in the information requested when 
 |               | Name          | Email         |
 |:-------------:|:-------------:|:-------------:|
 | Team Member 1 | Benjamin Kao      | bkao1@mail.sfsu.edu     |
-| Team Member 2 | Christopher Kappeler     | ckappeler@mail.sfsu.edu     |
+| Team Member 2 | CanRan Li     | cli16@mail.sfsu.edu     |
+| Team Member 3 | Christopher Kappeler     | ckappeler@mail.sfsu.edu     |
 
 ## Changing Repository Name
 
@@ -28,4 +29,9 @@ Which ever member created the repository will need to invite the other member to
 
 # Build/Run Instructions
 
-Below please explain how to fully install and run your application.
+* Download the repository
+* Create MySQL Database with init.sql file
+* While in photo-app directory, type command "npm install"
+* type command "npm start"
+* Please turn on browser cookies
+* Enjoy!
